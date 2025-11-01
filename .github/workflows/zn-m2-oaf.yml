@@ -1,5 +1,5 @@
 #CI项目
-name: OWRT-ALL
+name: zn-m2-oaf
 
 #CI计划
 on:

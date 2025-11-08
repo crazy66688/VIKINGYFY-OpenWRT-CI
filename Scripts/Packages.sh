@@ -50,6 +50,8 @@ UPDATE_PACKAGE "aurora" "eamonxg/luci-theme-aurora" "master"
 UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
 UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
 UPDATE_PACKAGE "timecontrol" "sirpdboy/luci-app-timecontrol" "main" “luci-app-nft-timecontrol”
+UPDATE_PACKAGE "timecontrol" "gaobin89/luci-app-timecontrol" "js" “luci-app-timecontrol”
+
 UPDATE_PACKAGE "pushbot" "zzsj0928/luci-app-pushbot" "master" 
 UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
 UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"

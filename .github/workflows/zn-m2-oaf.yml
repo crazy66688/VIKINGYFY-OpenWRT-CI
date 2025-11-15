@@ -32,9 +32,9 @@ jobs:
       fail-fast: false
       #max-parallel: 3
       matrix:
-        CONFIG: [zn-m2-WIFI-NO]
-        SOURCE: [VIKINGYFY/immortalwrt]
-        BRANCH: [owrt]
+        CONFIG: [zn-m2-WIFINO-OAF]
+        SOURCE: [LiBwrt/openwrt-6.x]
+        BRANCH: [k6.12-nss]
 
     #调用公用编译核心WRT-CORE.yml
     uses: ./.github/workflows/WRT-CORE1.yml
